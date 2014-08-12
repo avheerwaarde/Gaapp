@@ -1,0 +1,8 @@
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Repository.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Repository.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Gaap.Repository.csprojResolveAssemblyReference.cache
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Repository.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Repository.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.xml

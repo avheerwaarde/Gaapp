@@ -1,0 +1,16 @@
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Gaapp.csprojResolveAssemblyReference.cache
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Gaapp.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Gaapp.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\bin\Debug\Dapper.xml
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Gaapp.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaap\Repository\obj\Debug\Gaapp.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\bin\Debug\Gaapp.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\bin\Debug\Gaapp.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\bin\Debug\Dapper.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\bin\Debug\Dapper.pdb
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\bin\Debug\Dapper.xml
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\obj\Debug\Gaapp.csprojResolveAssemblyReference.cache
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\obj\Debug\Gaapp.dll
+C:\Users\avheerwaarde\Documents\GitHub\Gaapp\Gaapp\obj\Debug\Gaapp.pdb
